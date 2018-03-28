@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\bin\Debug\SumOfNumbersLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\bin\Debug\SumOfNumbersLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\bin\Debug\SumOfNumbersLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.frmSumOfNumbersLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\SumOfNumbersLeoK\SumOfNumbersLeoK\obj\Debug\SumOfNumbersLeoK.pdb
